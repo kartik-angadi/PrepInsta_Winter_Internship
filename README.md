@@ -80,12 +80,17 @@ Objective: Imagine you are a data analyst at “HealthTrackers Inc.,” a fictio
 Business Task: Analyze FitBit Fitness Tracker App data to gain insights into how consumers are using the FitBit app and discover trends and insights for the marketing team. Business Objectives:
 
 What are the trends identified?
+
 How could these trends apply to customers?
+
 How could these trends help influence marketing strategy?
+
 Business Objectives:
 
 What are the trends identified?
+
 How could these trends apply to customers?
+
 How could these trends help influence marketing strategy?
 
 
